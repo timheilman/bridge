@@ -4,4 +4,4 @@ Playing S with N dealing, 1S pass, what do you bid with 12+ points and CCC DDD H
 Playing S with S dealing, 1S pass 2H, how many hearts does N have? {{c1::5. If <4, wouldn't bid it; if 4, i.e. CCC DDD HHHH SSS, he'd lie with 2C; so, 5.}}	Goffe	20160928	
 Playing S with E dealing, 1D X pass pass, how many diamonds does N have? {{c1::5+.  Must have five in doubled suit to pass a takeout double.}}	Goffe	20160928	
 Playing S with N dealing, 1D 1S X pass pass, how many spades does N have? {{c1::5+.  Must have five in doubled suit to pass a negative double.}}	Goffe	20160928	
-All jumps in competition are {{c1::weak}}.	Goffe	20160928	
+All jumps in competition are {{c1::weak}}, except that {{c1::jumps to game may be strong}}, but this exception doesn't really matter because {{c1::you'll pass the jump, weak or strong}}.	Goffe	20160928	
