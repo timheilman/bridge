@@ -1,0 +1,13 @@
+Playing S, dealer N, pass pass 2NT pass 3C pass 3D pass 4D; how many points does N have? {{c1::12+HCP+Short.  As a passed hand, he has <13HCP+Long, but the 4D reveals the stayman to be a lie, switches valuation to short, and is expressing interest in slam in diamonds: 12+ points.}}	Goffe	20161026	
+Extended Blackwood: ... 4NT pass {{c1::5NT}} means {{c2::two aces and a void}}.	Goffe	20161026	
+Extended Blackwood: [Club fit communicated] ... 4NT pass {{c1::6C}} means {{c2::signoff}}.	Goffe	20161026	
+Extended Blackwood: [No suit, D, H, or S fit communicated] ... 4NT pass {{c1::6C}} means {{c2::one ace and a void in clubs}}.	Goffe	20161026	
+Extended Blackwood: [Club fit communicated] ... 4NT pass {{c1::6D}} means {{c2::one ace, a void in diamonds, offering either 6NT or 7C}}.	Goffe	20161026	
+Extended Blackwood: [Diamond fit communicated] ... 4NT pass {{c1::6D}} means {{c2::signoff}}.	Goffe	20161026	
+Extended Blackwood: [No suit, H, or S fit communicated] ... 4NT pass {{c1::6D}} means {{c2::one ace and a void in diamonds}}.	Goffe	20161026	
+Extended Blackwood: [Club or diamond fit communicated] ... 4NT pass {{c1::6H}} means {{c2::one ace and a void in hearts, offering either 6NT or 7C/D}}.	Goffe	20161026	
+Extended Blackwood: [Heart fit communicated] ... 4NT pass {{c1::6H}} means {{c2::signoff}}.	Goffe	20161026	
+Extended Blackwood: [No suit or S fit communicated] ... 4NT pass {{c1::6H}} means {{c2::one ace and a void in hearts}}.	Goffe	20161026	
+Extended Blackwood: [C, D, H, or no suit fit communicated] ... 4NT pass {{c1::6S}} means {{c2::one ace and a void in spades, offering either 6NT or 7C/D/H}}.	Goffe	20161026	
+Extended Blackwood: [Spade fit communicated] ... 4NT pass {{c1::6S}} means {{c2::signoff}}.	Goffe	20161026	
+When counting short, be sure to {{c1::reduce the value}} of your voids/singletons/doubletons when they are {{c2::in partner's first-bid suit}}.	Goffe	20161026	
