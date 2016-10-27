@@ -13,6 +13,6 @@ Extended Blackwood: [Club or diamond fit communicated] ... 4NT pass {{c1::6H}} m
 Extended Blackwood: [Heart fit communicated] ... 4NT pass {{c1::6H}} means {{c2::one ace and a void in spades}}.	Goffe	20161026	
 Extended Blackwood: [Spade or no suit fit communicated] ... 4NT pass {{c1::6H}} means {{c2::one ace and a void in hearts}}.	Goffe	20161026	
 Extended Blackwood: [Club, Diamond, Heart, or no suit fit communicated] ... 4NT pass {{c1::6S}} means {{c2::one ace and a void in spades}}.	Goffe	20161026	
-Extended Blackwood: [Spade fit communicated] ... 4NT pass {{c1::6S}} means {{c2::signoff}}.	Goffe	20161026	
+Extended Blackwood: [Spade fit communicated] ... 4NT pass {{c1::6S}} means {{c2::your partner has misbid}}.	Goffe	20161026	
 When counting short, be sure to {{c1::reduce the value}} of your voids/singletons/doubletons when they are {{c2::in partner's first-bid suit}}.	Goffe	20161026	
-Remember, Blackwood is just a safety to be sure {{c1::you're not going to slam missing two aces}}.  Don't use Blackwood unless {{c1::you already intend to go to slam}}.
+Remember, Blackwood is just a safety to be sure {{c1::you're not going to slam missing two aces}}.  Don't use Blackwood unless {{c1::you already intend to go to slam}}.	Goffe	20161026	
